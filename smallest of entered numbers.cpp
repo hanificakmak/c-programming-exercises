@@ -1,3 +1,5 @@
+// It finds smallest of entered numbers.
+
 #include<stdio.h>
 int main()
 {
