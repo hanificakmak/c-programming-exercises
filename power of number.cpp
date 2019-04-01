@@ -1,3 +1,5 @@
+//This program calculates x raised to the y power.
+
 #include<stdio.h>
 
 int main(){
