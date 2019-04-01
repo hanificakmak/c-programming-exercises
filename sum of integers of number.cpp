@@ -1,4 +1,4 @@
-//sum of integers of number
+//It finds sum of the digits of entered number
 
 #include <stdio.h>
 
