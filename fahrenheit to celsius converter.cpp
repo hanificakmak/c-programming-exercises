@@ -1,3 +1,4 @@
+// This program converts Fahrenheit to Celsius or Celsius to Fahrenheit 
 #include<stdio.h>
 
 void celcius(float);
