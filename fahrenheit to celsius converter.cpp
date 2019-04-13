@@ -16,9 +16,9 @@ printf("\n**********************************************\n");
 while(n!=2 || n!=1)
 
         {
-         
-		printf("\nEnter a number:");
-		scanf("%d",&n);
+	
+	printf("\nEnter a number:");
+	scanf("%d",&n);
 
 if (n==1)
 
