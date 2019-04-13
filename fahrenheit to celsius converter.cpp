@@ -1,4 +1,4 @@
-// This program converts Fahrenheit to Celsius or Celsius to Fahrenheit 
+// This program converts Fahrenheit to Celsius or Celsius to Fahrenheit by using function.
 #include<stdio.h>
 
 void celcius(float);
@@ -34,9 +34,10 @@ else if (n==2)
 
 else
 
-        break;
-
+        break;		//when number is entered except 1 or 2, program will break.
+			//instead of if else we could use switch case
         }
+			
                 return 0;
 }
 
