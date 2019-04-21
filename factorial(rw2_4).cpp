@@ -1,3 +1,5 @@
+// This program finds "n!/(n-r)!" by using functions
+
 #include<stdio.h>
 
 int main(){
