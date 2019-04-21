@@ -18,7 +18,7 @@ float c;
 	
 	c=compute_c(x,y);
 	
-	printf("C is %.0f",c);
+	printf("C is %.1f",c);
 	
 	return 0;
 }
