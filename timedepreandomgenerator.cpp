@@ -1,3 +1,4 @@
+//This program generates number between 1 and 6 depending on time.
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
