@@ -1,3 +1,5 @@
+//This program simulates the toss of a coin. It shows that tossing the coin 1000 times and reports the number of heads and tails.	
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
