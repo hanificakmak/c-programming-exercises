@@ -1,3 +1,4 @@
+//This program generates number by using rand function.
 #include<stdio.h>
 #include<stdlib.h>
 
