@@ -1,3 +1,5 @@
+//This program generates random numbers by using rand and srand functions.
+
 #include<stdio.h>
 #include<stdlib.h>
 
