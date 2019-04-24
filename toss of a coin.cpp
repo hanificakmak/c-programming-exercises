@@ -12,7 +12,7 @@ int head=0;
 	
 	for(int i=1;i<=1000; i++)
 	{
-		printf("%10d",(rand()%2));
+		printf("%10d",1+(rand()%2));
 		
 		if(i%10==0)
 		{
