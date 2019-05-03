@@ -1,3 +1,4 @@
+//This program make a linear search in array that you determine the size.
 #include<stdio.h>
 
 int linearSearch(const int array[], int key, int SIZE); 
@@ -22,7 +23,7 @@ int main()
 	printf("Search your key:\n");
 	scanf("%d",&searchKey);
 	
-	element = linearSearch(a, searchKey, SIZE);
+	element = linearSearch(a, searchKey, SIZE); //calling function
 	
 	if(element!=-1)
 		printf("Found value in element %d", element);
