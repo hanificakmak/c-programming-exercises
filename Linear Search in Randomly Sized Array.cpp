@@ -1,3 +1,5 @@
+#This program makes a linear search in randomly sized array
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
@@ -9,8 +11,8 @@ int main()
 {
 	srand(time(NULL));
 	int SIZE;
-	SIZE=rand();
-	printf("your size %d\n",SIZE);
+	SIZE=rand(); //This function assign a value to the size of array
+	printf("your size %d\n",SIZE); //Prints our array size. In every compiling value will change.
 	
 	int a[SIZE];
 	int x;
