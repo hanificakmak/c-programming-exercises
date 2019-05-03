@@ -1,4 +1,4 @@
-//This program make a linear search in array that you determine the size.
+//This program makes a linear search in array that you determine the size.
 #include<stdio.h>
 
 int linearSearch(const int array[], int key, int SIZE); 
