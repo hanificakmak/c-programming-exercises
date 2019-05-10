@@ -1,3 +1,5 @@
+//This program compares two strings with strcmp function and add them with strcat function.
+
 #include<stdio.h>
 #include<string.h>
 #define SIZE 5
