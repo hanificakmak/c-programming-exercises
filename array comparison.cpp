@@ -1,3 +1,5 @@
+//This program shows how many numbers in first array are greater than in the second array
+
 #include<stdio.h>
 int main(){
 int i;
