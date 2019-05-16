@@ -9,10 +9,10 @@ int element=0;
 
 
 	printf("Enter first array's element:");
-	scanf("%d %d %d %d %d",&a[0],&a[1],&a[2],&a[3],&a[4]);
+	scanf("%d %d %d %d %d",&a[0],&a[1],&a[2],&a[3],&a[4]); //it can be done by for loop as well
 	
 	printf("Enter second array's element:");
-	scanf("%d %d %d %d %d",&b[0],&b[1],&b[2],&b[3],&b[4]);
+	scanf("%d %d %d %d %d",&b[0],&b[1],&b[2],&b[3],&b[4]);//it can be done by for loop as well
 	
 for(i=0; i<=4; i++)
 {
