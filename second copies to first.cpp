@@ -1,16 +1,20 @@
+//second copies to first 
+
 #include<stdio.h>
 int main(){
 	
 	int size1, size2;
 	int x;
-	int a[size1];
-	int b[size2];
 	
 	printf("Enter array1's size:");
 	scanf("%d",&size1);
 	
+	int a[size1];
+	
 	printf("Enter array2's size:");
 	scanf("%d",&size2);
+	
+	int b[size2];
 	
 	printf("enter array1's elements:");
 	
