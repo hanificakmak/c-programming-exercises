@@ -1,3 +1,5 @@
+//This program converts any string you enter into uppercase.
+
 #include<stdio.h>
 #include<ctype.h>
 int main(){
