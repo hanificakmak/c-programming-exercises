@@ -1,5 +1,4 @@
-#include<stdio.h>
-int main(){
+//This program counts how many 'a' is in your string
 
 char message[10];
 int counter=0;
