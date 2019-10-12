@@ -1,3 +1,5 @@
+//This program calculate your salary by using your sales data 
+
 #include<stdio.h>
 
 int main() 
