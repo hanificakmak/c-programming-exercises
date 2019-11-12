@@ -1,0 +1,44 @@
+#include<stdio.h>
+int main(){
+
+int grade;
+int student=0;
+int counter1=0;
+int counter2=0;
+int total=0;
+
+scanf("%d",&grade);
+
+total+=grade;
+
+if(grade<50)
+    counter1++;
+else if (grade>50)
+    counter2++;
+
+
+while(grade>0)
+{
+
+scanf("%d",&grade);
+student++;
+total+=grade;
+
+if(grade>50)
+    counter1++;
+else if (grade<50)
+    counter2++;
+
+
+}
+
+if(counter1==0)
+    printf("no grades bigger than 50\n");
+else if(counter2==0)
+    printf("no grades smaller than 50\n");
+
+printf("average is %d\n",(total+1)/student);
+
+
+return 0;
+}
