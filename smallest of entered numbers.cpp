@@ -13,7 +13,7 @@ int main()
     while(counter<=9)
     {
     
-	printf("enter an integer:");
+    printf("enter an integer:");
     scanf("%d",&number);
     
     if (number<smallest)
