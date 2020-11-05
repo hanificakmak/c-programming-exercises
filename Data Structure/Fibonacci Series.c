@@ -3,7 +3,7 @@
 
 #include<stdio.h>
 
-int fibonacci(int);                                   //Function declaration
+int fibonacci(int);                                   	    //Function declaration
 
 int main(){
 	
@@ -24,7 +24,7 @@ int main(){
 }
 
 
-int fibonacci(int n){                                 //Writing function recursively
+int fibonacci(int n){                                	    //Writing function recursively
 	
 	if(n == 0)
 		return 0;
